@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../website/.vscode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Creative Projects"
+	}
+}
